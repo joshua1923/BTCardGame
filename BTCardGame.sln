@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31808.319
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTCardGame", "BTCardGame\BTCardGame.csproj", "{14743D65-0879-438F-A174-EBBC7933FBC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTCardGame.Tests", "BTCardGame.Tests\BTCardGame.Tests.csproj", "{364F7E07-CB6F-45CB-ADEA-1CFB832A0F5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14743D65-0879-438F-A174-EBBC7933FBC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14743D65-0879-438F-A174-EBBC7933FBC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14743D65-0879-438F-A174-EBBC7933FBC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14743D65-0879-438F-A174-EBBC7933FBC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{364F7E07-CB6F-45CB-ADEA-1CFB832A0F5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{364F7E07-CB6F-45CB-ADEA-1CFB832A0F5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{364F7E07-CB6F-45CB-ADEA-1CFB832A0F5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{364F7E07-CB6F-45CB-ADEA-1CFB832A0F5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E12D83E8-7C07-4D23-AA86-94BE0BF8F920}
+	EndGlobalSection
+EndGlobal
